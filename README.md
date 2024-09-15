@@ -8,59 +8,39 @@
 ## Objetivo:
 
 
-O Objetivo deste sistema web é para consultório profissional de nutrição, atendendo todos os requisitos solicitados, tais como:
-* Modelagem da Página Inicial (Home)
-* Cabeçalho (Header):
-* Logo da empresa
-* Links para outras páginas (Nossa Empresa, Suporte/Contato)
+O Objetivo deste projeto é desenvolver um Sistema Web personlizado para profissionais da área da saúde.
 
-* Seção “Nossa Empresa”:
-Breve descrição da empresa, missão, valores etc.
-Talvez uma imagem representativa.
 
-* Seção “Suporte/Contato”:
-* Informações de contato (e-mail, telefone)
-* Formulário de contato ou link para página de suporte
-* Rodapé (Footer):
-* Links úteis (Política de Privacidade, Termos de Uso)
-* Copyright e informações legais
+## Estrutura:
+
+
+
+
 
 ## Tecnologia:
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
-
-## Arquitetura:
-HTML:
-index.html: Página inicial com estrutura básica (cabeçalho, seções e rodapé).
-empresa.html: Página com detalhes sobre a empresa.
-contato.html: Página com informações de suporte/contato.
-
-CSS:
-styles.css: Arquivo para estilização (cores, fontes, layout).
-JavaScript (opcional):
-Para interatividade (por exemplo, validação de formulários).
-
-#### Autora:
- [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Nilva Pires </sub>] (https://github.com/nilva2020
 
 
- ---
-
-<widht><a href="https://www.linkedin.com/in/nilva-pires" target="_blank">
-<img text-align="left"  src="img/linkedin.png" alt="linkedin" width="40px" height="40px"></a></widht>  
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 
-
- <left><a href="mailto:piresnilva@gmail.com" target="_blank">
-<img text-align="right" src="img/email.png" alt="e-mail"  width="50px" height="50px"></a>  </left>
-
-<br>  
-
-___
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![logo](img/50%20transparente.png) 
+</br>
 
-<center>Coding experience | since - 2021 |Creating future| </center> 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Autora:
+
+[<img src="https://avatars.githubusercontent.com/u/71607298?v=4" width=115><br><sub>**Nilva Pires**</sub>](https://github.com/nilva2020)  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilva-pires/)](https://www.linkedin.com/in/nilva-pires/)
+
+---
+<div align="center">
+<img src="img/50 transparente.png" width="80px" height="80px"/>
+<p text aling="center">Coding Experience | since 2020 | Developing and created Future</p>
+</div>
