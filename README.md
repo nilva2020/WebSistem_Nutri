@@ -1,8 +1,7 @@
-# WebSistem_Nutri
+<h1 align="center"> WebSistem_Nutri </h1>
 
 
-
-
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
 ![](https://img.shields.io/badge/license-MIT-blue)
 
@@ -42,6 +41,10 @@ JavaScript (opcional):
 Para interatividade (por exemplo, validação de formulários).
 
 #### Autora:
+ [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Nilva Pires </sub>] (https://github.com/nilva2020
+
+
+ ---
 
 <widht><a href="https://www.linkedin.com/in/nilva-pires" target="_blank">
 <img text-align="left"  src="img/linkedin.png" alt="linkedin" width="40px" height="40px"></a></widht>  
@@ -56,5 +59,8 @@ Para interatividade (por exemplo, validação de formulários).
 
 ___
 
-<center>Developing since | © 2023 |  TechNilv@ </center> 
+
+![logo](img/50%20transparente.png) 
+
+<center>Coding experience | since - 2021 |Creating future| </center> 
 
